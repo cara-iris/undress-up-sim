@@ -1,0 +1,272 @@
+body {
+    padding:0;
+    margin:0;
+    background:white;
+}
+
+img {
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%, -50%);
+}
+
+.startpage {
+    width:1200px;
+    height:auto;
+}
+
+.facepage {
+    width: 700px;
+    height:auto;
+    left: 55%;
+}
+
+.torsopage {
+    width:700px;
+    height:auto;
+    left: 55%;
+}
+
+.legpage {
+    width:500px;
+    height:auto;
+}
+
+.clippy {
+    position:absolute;
+    top:80%;
+    left:85%;
+    width:300px;
+    height:auto;
+}
+
+.returnpage {
+    width:1500px;
+    height:auto;
+}
+
+.kirby {
+    width:200px;
+    top:30%;
+    left:30%;
+    height:auto;
+}
+.dancing {
+    width:300px;
+    top:50%;
+    left:15%;
+    height:auto;
+}
+
+.welcome {
+    width:300px;
+    top:30%;
+    left:60%;
+    height:auto;
+}
+
+.hearts {
+    width:300px;
+    top:80%;
+    left:60%;
+    height:auto;
+}
+
+.pepe {
+    width:200px;
+    top:80%;
+    left:30%;
+    height:auto;
+}
+
+.zero {
+    width:200px;
+    top:90%;
+    left:15%;
+    height:auto;
+}
+
+.baby {
+    width:200px;
+    top:15%;
+    left:80%;
+    height:auto;
+}
+
+.bbg {
+    width:200px;
+    top:25%;
+    left:10%;
+    height:auto;
+}
+
+.title {
+    width:1000px;
+    top:10%;
+    left:50%;
+    height:auto;
+}
+
+.circus{
+    width:200px;
+    top:80%;
+    left:40%;
+    height:auto;
+}
+.chibi{
+    width:200px;
+    top:50%;
+    left:90%;
+    height:auto;
+}
+
+.tweety{
+    width:200px;
+    top:30%;
+    left:70%;
+    height:auto;
+}
+
+.smallheart{
+    width:100px;
+    top:50%;
+    left:10%;
+    height:auto;
+}
+
+.goback{
+    width:200px;
+    top:60%;
+    left:15%;
+    height:auto;
+}
+.twilight{
+    width:200px;
+    top:60%;
+    left:75%;
+    height:auto
+}
+.endtitle{
+    width:600px;
+    top:50%;
+    left:50%;
+    height:auto
+}
+
+
+.circlemark{
+    width:400px;
+    top:30%;
+    left:15%;
+    height:auto
+}
+
+.topleft{
+    width:200px;
+    top:30%;
+    left:15%;
+    height:auto
+}
+
+.bottomleft{
+    width:200px;
+    top:80%;
+    left:25%;
+    height:auto
+}
+.topright{
+    width:300px;
+    top:30%;
+    left:80%;
+    height:auto
+}
+
+.bottomright{
+    width:200px;
+    top:55%;
+    left:75%;
+    height:auto
+}
+.middleleft{
+    width:150px;
+    top:25%;
+    left:60%;
+    height:auto
+}
+
+.lowbottomright{
+    width:150px;
+    top:90%;
+    left:80%;
+    height:auto
+}
+.lowbottomleft{
+    width:200px;
+    top:80%;
+    left:10%;
+    height:auto
+}
+
+.sketchers{
+    width:200px;
+    top:80%;
+    left:60%;
+    height:auto
+}
+
+.pinkpants{
+    width:100px;
+    top:70%;
+    left:90%;
+    height:auto
+}
+
+.skimask{
+    width:100px;
+    top:55%;
+    left:10%;
+    height:auto
+}
+
+.pinkshirt{
+    width:200px;
+    top:45%;
+    left:30%;
+    height:auto
+}
+
+.circleshirt{
+    width:400px;
+    top:45%;
+    left:30%;
+    height:auto
+}
+
+.circlepants{
+    width:400px;
+    top:70%;
+    left:90%;
+    height:auto
+}
+
+.circleshoes{
+    width:400px;
+    top:80%;
+    left:60%;
+    height:auto
+}
+
+.dancingkitty {
+    width:250px;
+    top:80%;
+    left:40%;
+    height:auto;
+}
+
+.bearpink {
+    width:100px;
+    top:23%;
+    left:30%;
+    height:auto;
+}
